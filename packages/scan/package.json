@@ -218,8 +218,8 @@
     "picocolors": "^1.1.1",
     "preact": "^10.29.1",
     "prompts": "^2.4.2",
-    "react-doctor": "latest",
-    "react-grab": "latest"
+    "react-doctor": "^0.9.1",
+    "react-grab": "^0.1.50"
   },
   "devDependencies": {
     "@esbuild-plugins/tsconfig-paths": "^0.1.2",
